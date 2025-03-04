@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Software Engineering and Data Science student, with a solid foundation in systems development acquired in a 1 and a half year course. In addition, I have advanced proficiency in English (C1) certified by IELTS.
+I am a Software Engineering and Data Science student, with a solid foundation in systems development acquired in a 1 and a half year course. In addition, I have advanced proficiency in English (C1) certified by IELTS
 
 
 # 💻 Tech Stack:
